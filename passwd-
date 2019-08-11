@@ -30,3 +30,5 @@ gluster:x:966:966:GlusterFS daemons:/var/run/gluster:/usr/bin/nologin
 rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/usr/bin/nologin
 tor:x:43:43::/var/lib/tor:/usr/bin/nologin
 tox-bootstrapd:x:199:199:Tox bootstrapd:/:/usr/bin/nologin
+nvidia-persistenced:x:143:143:NVIDIA Persistence Daemon:/:/usr/bin/nologin
+unbound:x:965:965:unbound:/etc/unbound:/usr/bin/nologin

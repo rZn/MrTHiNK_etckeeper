@@ -62,3 +62,5 @@ gluster:!!::
 rpc:!!::
 tor:!!::
 tox-bootstrapd:!!::
+nvidia-persistenced:!!::
+unbound:!!::

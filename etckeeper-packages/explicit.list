@@ -226,6 +226,7 @@ wingpanel-indicator-notifications
 wingpanel-indicator-session
 wingpanel-indicator-sound
 x11vnc
+xmrig
 xmrig-proxy
 zedenv
 zfs-auto-snapshot

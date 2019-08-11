@@ -62,3 +62,5 @@ gluster:x:966:
 rpc:x:32:
 tor:x:43:
 tox-bootstrapd:x:199:
+nvidia-persistenced:x:143:
+unbound:x:965:
