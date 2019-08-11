@@ -1,0 +1,15 @@
+show_mac=0
+group_name=0
+dhcpd_conf=/etc/dhcpd.conf
+show_ip=0
+dhcpd_path=/usr/bin/dhcpd
+display_max=100
+dhcpd_nocols=5
+lease_file=/var/lib/dhcp/dhcpd.leases
+restart_cmd=systemctl restart dhcpd4.service
+desc_name=0
+start_cmd=systemctl start dhcpd4.service
+pid_file=/run/dhcpd4.pid
+lease_tz=0
+lease_sort=0
+stop_cmd=systemctl stop dhcpd4.service

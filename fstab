@@ -1,0 +1,8 @@
+# zroot/ROOT/default
+zroot/ROOT/default  	/         	zfs       	rw,noatime,xattr,posixacl	0 0
+
+# zroot/data/home
+zroot/data/home     	/home     	zfs       	rw,xattr,posixacl	0 0
+
+# zroot/boot/grub
+zroot/boot/grub     	/boot/grub	zfs       	rw,xattr,posixacl	0 0

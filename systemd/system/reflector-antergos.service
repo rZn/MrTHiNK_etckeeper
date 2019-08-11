@@ -1,0 +1,9 @@
+[Unit]
+Description=Updates /etc/pacman.d/antergos-mirrorlist
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/reflector-antergos --save
+
+[Install]
+WantedBy=reflector-antergos.timer

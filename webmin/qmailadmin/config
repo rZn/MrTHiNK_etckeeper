@@ -1,0 +1,14 @@
+perpage=20
+sort_mode=0
+mail_system=1
+mail_dir_qmail=Maildir
+mailq_sort=0
+fwd_mode=0
+mail_file=Mailbox
+mail_dir=
+index_min=1000000
+qmail_dir=/var/qmail
+delete_warn=1
+columns=2
+max_records=200
+mailq_count=0

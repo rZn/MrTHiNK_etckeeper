@@ -1,0 +1,4 @@
+mods=core mod_so http_core
+version=2.439
+time=1554177763
+cmd=/usr/bin/httpd
