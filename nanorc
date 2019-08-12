@@ -304,3 +304,4 @@
 #unbind M-J main
 #unbind M-T main
 #set multibuffer
+include /usr/share/nano-syntax-highlighting/*.nanorc

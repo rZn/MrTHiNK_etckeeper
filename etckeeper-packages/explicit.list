@@ -6,6 +6,7 @@ appstream-generator
 apricity-theme
 archalien-git
 archive-mounter
+atool
 aur-auto-vote-git
 aurbrowser
 aurphan
@@ -32,6 +33,7 @@ debian-whois-mkpasswd
 debootstrap
 detox
 docker
+dvtm
 easyssh
 ecryptfs-utils
 electron-cash
@@ -128,7 +130,7 @@ meteo-git
 mmv
 monero-wallet-qt
 mousetweaks
-nano
+nano-syntax-highlighting-git
 nautilus-admin
 nautilus-folder-icons
 nautilus-image-converter
@@ -184,6 +186,7 @@ python-quart-cors
 python-slugify
 python-swiftclient
 qgpgme
+qsshfs
 qtox
 quadrapassel
 reborn-recovery
@@ -199,6 +202,7 @@ signal-desktop-bin
 simonascripts
 simple-scan
 speculum
+sshmnt
 stacer
 strip-nondeterminism
 sushi
@@ -213,6 +217,7 @@ switchboard-plug-printers
 switchboard-plug-sharing
 switchboard-plug-sound
 switchboard-plug-user-accounts
+sxiv-rifle
 systemd-zpool-scrub
 tali
 telegram-desktop
@@ -232,6 +237,7 @@ veracrypt
 vi
 vibe-d
 vino
+viu
 wasabi-wallet-bin
 webcamoid
 webmin

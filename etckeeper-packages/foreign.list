@@ -46,6 +46,7 @@ mergerfs-tools-git
 meteo-git
 mmv
 monero-wallet-qt
+nano-syntax-highlighting-git
 nautilus-admin
 nautilus-folder-icons
 nautilus-mediainfo
@@ -67,13 +68,16 @@ plank-theme-numix
 playmymusic-git
 popular-packages
 python-qdarkstyle
+qsshfs
 reborn-recovery
 regextester-git
 setup
 simonascripts
 speculum
+sshmnt
 sux
 switchboard-plug-elementary-tweaks-git
+sxiv-rifle
 systemd-zpool-scrub
 torbrowser-launcher-git
 toxygen-git
@@ -81,6 +85,7 @@ tpac
 tranqil
 unity-like-plank-theme
 venom
+viu
 wasabi-wallet-bin
 webcamoid
 webmin

@@ -3,6 +3,7 @@ antiword
 appstream-generator
 apricity-theme
 asp
+atool
 aurman
 aurphan
 aurvote
@@ -37,6 +38,7 @@ dialog
 diffutils
 docker
 downgrade
+dvtm
 e2fsprogs
 easytag
 ecryptfs-utils
@@ -241,6 +243,7 @@ samba
 screen
 sddm-config-editor-git
 sddm-theme-gracilis-git
+seahorse
 seahorse-nautilus
 sed
 shadow
@@ -273,6 +276,7 @@ switchboard-plug-security-privacy
 switchboard-plug-sharing
 switchboard-plug-sound
 switchboard-plug-user-accounts
+sxiv
 sysfsutils
 sysprof
 systemd-sysvcompat
@@ -286,6 +290,7 @@ tlp-rdw
 totem
 toxic
 tracker-miners
+trash-cli
 ttf-croscore
 ttf-droid
 ttf-liberation
@@ -308,6 +313,7 @@ wingpanel-indicator-notifications
 wingpanel-indicator-session
 wingpanel-indicator-sound
 wpa_supplicant
+x11-ssh-askpass
 x11vnc
 xclip
 xf86-video-dummy
