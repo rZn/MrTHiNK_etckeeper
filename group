@@ -65,3 +65,4 @@ tox-bootstrapd:x:199:
 nvidia-persistenced:x:143:
 unbound:x:965:
 xmrig:x:964:
+docker:x:963:rzn

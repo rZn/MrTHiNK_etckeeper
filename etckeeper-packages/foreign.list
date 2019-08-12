@@ -41,6 +41,7 @@ lightdm-slick-greeter
 lightdm-webkit2-theme-material2-git
 list-package-sizes.bash
 makepkg-meta
+mergerfs-tools-git
 meteo-git
 mmv
 monero-wallet-qt
@@ -69,6 +70,7 @@ reborn-recovery
 regextester-git
 setup
 simonascripts
+speculum
 sux
 switchboard-plug-elementary-tweaks-git
 systemd-zpool-scrub
@@ -79,6 +81,7 @@ tranqil
 unity-like-plank-theme
 venom
 wasabi-wallet-bin
+webcamoid
 webmin
 wickr-bin
 xmrig

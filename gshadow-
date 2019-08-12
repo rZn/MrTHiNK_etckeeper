@@ -64,3 +64,5 @@ tor:!!::
 tox-bootstrapd:!!::
 nvidia-persistenced:!!::
 unbound:!!::
+xmrig:!!::
+docker:!!::

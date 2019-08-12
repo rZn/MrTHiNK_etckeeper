@@ -29,6 +29,7 @@ crowd-greeter
 debian-whois-mkpasswd
 debootstrap
 detox
+docker
 easyssh
 ecryptfs-utils
 electron-cash
@@ -118,6 +119,7 @@ lostfiles
 makepkg-meta
 man-pages
 mc
+mergerfs-tools-git
 meteo-git
 mmv
 monero-wallet-qt
@@ -191,6 +193,7 @@ setup
 signal-desktop-bin
 simonascripts
 simple-scan
+speculum
 stacer
 strip-nondeterminism
 sushi
@@ -224,6 +227,7 @@ vi
 vibe-d
 vino
 wasabi-wallet-bin
+webcamoid
 webmin
 which
 wickr-bin

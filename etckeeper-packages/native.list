@@ -34,6 +34,7 @@ dh-make
 dhcpcd
 dialog
 diffutils
+docker
 downgrade
 e2fsprogs
 easytag
@@ -194,6 +195,7 @@ pantheon-videos
 patch
 pciutils
 perl
+pigz
 pikaur
 pkgconf
 pkgstats
