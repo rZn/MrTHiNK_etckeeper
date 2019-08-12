@@ -9,6 +9,7 @@ archive-mounter
 atool
 aur-auto-vote-git
 aurbrowser
+aurebuildcheck-rs-git
 aurphan
 aurutils
 aurvote
@@ -29,6 +30,7 @@ configurator-git
 conky-colors-git
 copyq-plugin-itemweb
 crowd-greeter
+dchain
 debian-whois-mkpasswd
 debootstrap
 detox
@@ -105,7 +107,6 @@ iagno
 ideogram-git
 imageburner
 kgpg
-kingbash-gb-git
 licenses
 lightdm-gtk-greeter-settings
 lightdm-mini-greeter
@@ -198,6 +199,7 @@ screen
 sddm-config-editor-git
 sddm-theme-gracilis-git
 seahorse-nautilus
+sensible-utils
 setup
 signal-desktop-bin
 simonascripts
@@ -242,7 +244,6 @@ viu
 wasabi-wallet-bin
 webcamoid
 webmin
-which
 wickr-bin
 wingpanel-indicator-nightlight
 wingpanel-indicator-notifications

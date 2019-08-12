@@ -4,6 +4,7 @@ archalien-git
 archive-mounter
 aur-auto-vote-git
 aurbrowser
+aurebuildcheck-rs-git
 aurutils
 auto-auto-complete
 bisq
@@ -16,6 +17,7 @@ configurator-git
 conky-colors-git
 copyq-plugin-itemweb
 crowd-greeter
+dchain
 debian-whois-mkpasswd
 easyssh
 electron-cash
@@ -35,7 +37,6 @@ hackup-git
 hashit
 ideogram-git
 imageburner
-kingbash-gb-git
 lightdm-mini-greeter
 lightdm-settings
 lightdm-slick-greeter
@@ -71,6 +72,7 @@ python-qdarkstyle
 qsshfs
 reborn-recovery
 regextester-git
+sensible-utils
 setup
 simonascripts
 speculum
