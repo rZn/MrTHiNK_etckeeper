@@ -23,11 +23,6 @@ set -e
 . "$SETUP_DATA_DIR/common-functions"
 . "$SETUP_DATA_DIR/common-config"
 
-if [ "$SYSTEMTARGET" == "android" ]; then
-    #Doesn't apply to Android so simply exit
-    exit 0
-fi
-
 if [ $STAGE = "setup-start" ] || [ $STAGE = "setup-recover" ]; then
 
     info "Setting chroot name to ${CHROOT_NAME}"
