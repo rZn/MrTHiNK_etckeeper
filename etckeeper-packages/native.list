@@ -304,6 +304,7 @@ x11vnc
 xclip
 xf86-video-dummy
 xfsprogs
+xorg-xbacklight
 xsel
 yay
 youtube-dl

@@ -4,6 +4,8 @@ archive-mounter
 aur-auto-vote-git
 aurbrowser
 aurutils
+auto-auto-complete
+bisq
 bitw-git
 bitwarden
 cauralho-git
@@ -15,6 +17,8 @@ copyq-plugin-itemweb
 crowd-greeter
 debian-whois-mkpasswd
 easyssh
+electron-cash
+electrum-ltc
 elementary-add-icon-theme-git
 etckeeper-packages
 extra
@@ -30,6 +34,7 @@ hackup-git
 hashit
 ideogram-git
 imageburner
+kingbash-gb-git
 lightdm-mini-greeter
 lightdm-settings
 lightdm-slick-greeter
@@ -43,6 +48,7 @@ nautilus-admin
 nautilus-folder-icons
 nautilus-mediainfo
 nautilus-wipe
+obsuite-git
 octopussh
 openwmail-bin
 pacget
@@ -58,6 +64,7 @@ plank-theme-namor
 plank-theme-numix
 playmymusic-git
 popular-packages
+python-qdarkstyle
 reborn-recovery
 regextester-git
 setup

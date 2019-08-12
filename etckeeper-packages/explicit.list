@@ -9,10 +9,12 @@ aurbrowser
 aurphan
 aurutils
 aurvote
+auto-auto-complete
 autojump
 axel
 base-cosmic-reborn
 bison
+bisq
 bitw-git
 bitwarden
 capnet-assist
@@ -29,7 +31,9 @@ debootstrap
 detox
 easyssh
 ecryptfs-utils
+electron-cash
 electrum
+electrum-ltc
 elementary-add-icon-theme-git
 elementary-cosmic-reborn
 epiphany
@@ -95,6 +99,7 @@ iagno
 ideogram-git
 imageburner
 kgpg
+kingbash-gb-git
 licenses
 lightdm-gtk-greeter-settings
 lightdm-mini-greeter
@@ -127,6 +132,7 @@ nautilus-share
 nautilus-terminal
 nautilus-wipe
 netctl
+obsuite-git
 octopussh
 openssl-1.0
 openwmail-bin
