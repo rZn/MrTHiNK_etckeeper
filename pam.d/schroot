@@ -23,9 +23,6 @@ auth       sufficient pam_rootok.so
 # time restrainst on schroot usage.
 # account    requisite  pam_time.so
 
-account required pam_unix.so
-session required pam_unix.so
-
 # Sets up user limits, please uncomment and read /etc/security/limits.conf
 # to enable this functionality.
 # session    required   pam_limits.so
