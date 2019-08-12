@@ -1,6 +1,7 @@
 accerciser
 advcp
 ancient-packages
+antiword
 appstream-generator
 apricity-theme
 archalien-git
@@ -42,6 +43,7 @@ epiphany
 etckeeper-packages
 extra
 fasd
+fastjar
 finetune
 firefox
 five-or-more
@@ -120,6 +122,7 @@ lostfiles
 makepkg-meta
 man-pages
 mc
+mediainfo
 mergerfs-tools-git
 meteo-git
 mmv
@@ -222,6 +225,7 @@ toxygen-git
 tpac
 tranqil
 unity-like-plank-theme
+unrtf
 utox
 venom
 veracrypt

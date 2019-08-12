@@ -1,4 +1,5 @@
 accerciser
+antiword
 appstream-generator
 apricity-theme
 asp
@@ -49,6 +50,7 @@ evolution
 exfat-utils
 fakeroot
 fasd
+fastjar
 file
 file-roller
 filesystem
@@ -158,6 +160,7 @@ man-db
 man-pages
 mc
 mdadm
+mediainfo
 mousetweaks
 nano
 nautilus
@@ -243,6 +246,7 @@ sed
 shadow
 signal-desktop-bin
 simple-scan
+source-highlight
 stacer
 strace
 strip-nondeterminism
@@ -288,6 +292,7 @@ ttf-liberation
 ttf-ms-fonts
 udftools
 unrar
+unrtf
 unzip
 usbutils
 util-linux
