@@ -9,6 +9,7 @@ archive-mounter
 atool
 aur-auto-vote-git
 aurbrowser
+aurebuildcheck-git
 aurebuildcheck-rs-git
 aurphan
 aurutils
