@@ -1,4 +1,5 @@
 advcp
+alien_package_converter
 ancient-packages
 archalien-git
 archive-mounter
@@ -20,6 +21,7 @@ copyq-plugin-itemweb
 crowd-greeter
 dchain
 debian-whois-mkpasswd
+devscripts
 easyssh
 electron-cash
 electrum-ltc

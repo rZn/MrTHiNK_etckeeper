@@ -1,5 +1,6 @@
 accerciser
 advcp
+alien_package_converter
 ancient-packages
 antiword
 appstream-generator
@@ -35,6 +36,7 @@ dchain
 debian-whois-mkpasswd
 debootstrap
 detox
+devscripts
 docker
 dvtm
 easyssh
@@ -200,7 +202,6 @@ screen
 sddm-config-editor-git
 sddm-theme-gracilis-git
 seahorse-nautilus
-sensible-utils
 setup
 signal-desktop-bin
 simonascripts
