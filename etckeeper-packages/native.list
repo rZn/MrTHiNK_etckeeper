@@ -53,6 +53,7 @@ etckeeper
 evolution
 exfat-utils
 fakeroot
+fann
 fasd
 fastjar
 figlet
@@ -233,12 +234,14 @@ python-swiftclient
 python-trio
 python-typing_extensions
 python-unidecode
+python-virtualenvwrapper
 qgpgme
 qt5-webkit
 qt5-xmlpatterns
 qtox
 quadrapassel
 reborn-updates
+reborn-updates-addons
 rebornos-keyring
 reflector-antergos
 reiserfsprogs
@@ -261,6 +264,7 @@ strace
 strip-nondeterminism
 sushi
 swell-foop
+swig
 switchboard
 switchboard-plug-a11y
 switchboard-plug-about

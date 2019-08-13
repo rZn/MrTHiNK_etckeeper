@@ -52,6 +52,7 @@ epiphany
 etcher
 etckeeper-packages
 extra
+fann
 fasd
 fastjar
 finetune
@@ -196,12 +197,14 @@ python-qtpy
 python-quart-cors
 python-slugify
 python-swiftclient
+python-virtualenvwrapper
 python2-apt
 qgpgme
 qsshfs
 qtox
 quadrapassel
 reborn-recovery
+reborn-updates-addons
 rebornos-keyring
 reflector-antergos
 regextester-git
@@ -221,6 +224,7 @@ strip-nondeterminism
 sushi
 sux
 swell-foop
+swig
 switchboard-plug-a11y
 switchboard-plug-bluetooth
 switchboard-plug-mouse-touchpad
