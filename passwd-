@@ -32,3 +32,4 @@ tor:x:43:43::/var/lib/tor:/usr/bin/nologin
 tox-bootstrapd:x:199:199:Tox bootstrapd:/:/usr/bin/nologin
 nvidia-persistenced:x:143:143:NVIDIA Persistence Daemon:/:/usr/bin/nologin
 unbound:x:965:965:unbound:/etc/unbound:/usr/bin/nologin
+xmrig:x:964:964::/:/usr/bin/nologin

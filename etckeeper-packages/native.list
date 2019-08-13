@@ -119,6 +119,7 @@ gnu-free-fonts
 gnu-netcat
 gpart
 gparted
+gpicview-gtk3
 granite
 graphic-cosmic-reborn
 grep
@@ -163,6 +164,20 @@ lostfiles
 lrzip
 lsb-release
 lvm2
+lxappearance-gtk3
+lxappearance-obconf-gtk3
+lxde-common
+lxde-icon-theme
+lxdm-gtk3
+lxhotkey-gtk3
+lxinput-gtk3
+lxlauncher-gtk3
+lxmusic-gtk3
+lxpanel-gtk3
+lxrandr-gtk3
+lxsession-gtk3
+lxtask-gtk3
+lxterminal
 lzop
 make
 man-db
@@ -180,6 +195,7 @@ nautilus-share
 nautilus-terminal
 netctl
 nnn
+openbox-cosmic-reborn
 openbox-menu
 openssl-1.0
 orca
@@ -209,6 +225,7 @@ pantheon-videos
 patch
 pbzip2
 pciutils
+pcmanfm-gtk3
 perl
 pigz
 pikaur

@@ -32,3 +32,4 @@ tor:!!:18116::::::
 tox-bootstrapd:!!:18119::::::
 nvidia-persistenced:!!:18119::::::
 unbound:!!:18119::::::
+xmrig:!!:18119::::::

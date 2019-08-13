@@ -101,7 +101,7 @@ gnome-todo
 gnome-usage
 gnome-user-docs
 gnome-weather
-gparted
+gpicview-gtk3
 graphic-cosmic-reborn
 grml2usb
 gsignond-plugin-lastfm-git
@@ -133,6 +133,17 @@ list-package-sizes.bash
 logrotate
 lollypop
 lostfiles
+lxde-common
+lxdm-gtk3
+lxhotkey-gtk3
+lxinput-gtk3
+lxlauncher-gtk3
+lxmusic-gtk3
+lxpanel-gtk3
+lxrandr-gtk3
+lxsession-gtk3
+lxtask-gtk3
+lxterminal
 makepkg-meta
 man-pages
 mc
@@ -153,10 +164,9 @@ nautilus-terminal
 nautilus-wipe
 netctl
 nnn
-obmenu
 obsuite-git
 octopussh
-openbox-menu
+openbox-cosmic-reborn
 openssl-1.0
 openwmail-bin
 orca
@@ -182,6 +192,7 @@ pantheon-shortcut-overlay
 pantheon-terminal
 pantheon-videos
 pbzip2
+pcmanfm-gtk3
 pkgstats
 plank-theme-arc
 plank-theme-namor
@@ -258,7 +269,6 @@ vi
 vibe-d
 vino
 viu
-waldorf-ui-theme
 wasabi-wallet-bin
 webcamoid
 webmin
