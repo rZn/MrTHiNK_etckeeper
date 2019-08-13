@@ -41,6 +41,7 @@ devscripts
 dmenu
 docker
 doge
+dolphin
 dvtm
 easyssh
 ecryptfs-utils
@@ -117,6 +118,7 @@ i-nex
 iagno
 ideogram-git
 imageburner
+kdialog
 kgpg
 licenses
 lightdm-gtk-greeter-settings
