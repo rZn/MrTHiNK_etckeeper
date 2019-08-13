@@ -217,6 +217,7 @@ setup
 signal-desktop-bin
 simonascripts
 simple-scan
+source-highlight
 speculum
 sshmnt
 stacer
