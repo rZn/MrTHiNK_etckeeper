@@ -1,7 +1,6 @@
 advcp
 alien_package_converter
 ancient-packages
-apt
 archalien-git
 archive-mounter
 aur-auto-vote-git
@@ -22,6 +21,7 @@ copyq-plugin-itemweb
 crowd-greeter
 dchain
 debian-whois-mkpasswd
+debtap
 devscripts
 easyssh
 electron-cash
@@ -33,7 +33,9 @@ finetune
 fmo
 fondo-git
 formatter-git
+franz-bin
 gamehub
+germinate
 grml2usb
 gtk-theme-adwaita-tweaks
 gtkhash-nautilus
@@ -41,6 +43,7 @@ hackup-git
 hashit
 ideogram-git
 imageburner
+jave
 lightdm-mini-greeter
 lightdm-settings
 lightdm-slick-greeter
@@ -51,6 +54,7 @@ mergerfs-tools-git
 meteo-git
 mmv
 monero-wallet-qt
+motd
 nano-syntax-highlighting-git
 nautilus-admin
 nautilus-folder-icons
@@ -72,7 +76,10 @@ plank-theme-namor
 plank-theme-numix
 playmymusic-git
 popular-packages
+python-apt
+python-germinate
 python-qdarkstyle
+python2-apt
 qsshfs
 reborn-recovery
 regextester-git
@@ -85,6 +92,8 @@ sux
 switchboard-plug-elementary-tweaks-git
 sxiv-rifle
 systemd-zpool-scrub
+toilet
+toilet-fonts
 torbrowser-launcher-git
 toxygen-git
 tpac

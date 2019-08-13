@@ -5,7 +5,6 @@ ancient-packages
 antiword
 appstream-generator
 apricity-theme
-apt
 archalien-git
 archive-mounter
 atool
@@ -36,9 +35,11 @@ crowd-greeter
 dchain
 debian-whois-mkpasswd
 debootstrap
+debtap
 detox
 devscripts
 docker
+doge
 dvtm
 easyssh
 ecryptfs-utils
@@ -60,7 +61,9 @@ fmo
 fondo-git
 formatter-git
 four-in-a-row
+franz-bin
 gamehub
+germinate
 ghex
 gnome-books
 gnome-boxes
@@ -134,6 +137,7 @@ mergerfs-tools-git
 meteo-git
 mmv
 monero-wallet-qt
+motd
 mousetweaks
 nano-syntax-highlighting-git
 nautilus-admin
@@ -172,6 +176,7 @@ pantheon-session
 pantheon-shortcut-overlay
 pantheon-terminal
 pantheon-videos
+pbzip2
 pkgstats
 plank-theme-arc
 plank-theme-namor
@@ -190,6 +195,7 @@ python-qtpy
 python-quart-cors
 python-slugify
 python-swiftclient
+python2-apt
 qgpgme
 qsshfs
 qtox
@@ -229,6 +235,7 @@ tali
 telegram-desktop
 timeshift
 tlp-rdw
+toilet-fonts
 torbrowser-launcher-git
 totem
 toxic

@@ -37,6 +37,7 @@ dhcpcd
 dialog
 diffutils
 docker
+doge
 downgrade
 dvtm
 e2fsprogs
@@ -53,6 +54,7 @@ exfat-utils
 fakeroot
 fasd
 fastjar
+figlet
 file
 file-roller
 filesystem
@@ -157,6 +159,7 @@ lostfiles
 lrzip
 lsb-release
 lvm2
+lzop
 make
 man-db
 man-pages
@@ -199,6 +202,7 @@ pantheon-shortcut-overlay
 pantheon-terminal
 pantheon-videos
 patch
+pbzip2
 pciutils
 perl
 pigz
