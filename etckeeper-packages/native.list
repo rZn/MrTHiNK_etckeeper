@@ -2,6 +2,7 @@ accerciser
 antiword
 appstream-generator
 apricity-theme
+ark
 asp
 atool
 aurman
@@ -60,6 +61,7 @@ fastjar
 figlet
 file
 file-roller
+filelight
 filesystem
 findutils
 firefox
@@ -141,8 +143,25 @@ iproute2
 iputils
 iw
 jfsutils
+kate
+kbackup
+kcalc
+kcharselect
+kde-cosmic-reborn
+kdebugsettings
+kdf
+keditbookmarks
+kfind
+kfloppy
 kgpg
+khelpcenter
 kid3-qt
+konqueror
+konsole
+kteatime
+ktimer
+kwalletmanager
+kwrite
 less
 libgsf
 libopenraw
@@ -232,6 +251,7 @@ pikaur
 pkgconf
 pkgstats
 polari
+print-manager
 procps-ng
 psmisc
 pyqt5-common
@@ -283,6 +303,7 @@ stacer
 strace
 strip-nondeterminism
 sushi
+sweeper
 swell-foop
 swig
 switchboard

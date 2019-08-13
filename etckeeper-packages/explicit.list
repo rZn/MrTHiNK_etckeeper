@@ -7,6 +7,7 @@ appstream-generator
 apricity-theme
 archalien-git
 archive-mounter
+ark
 atool
 aur-auto-vote-git
 aurbrowser
@@ -56,6 +57,7 @@ extra
 fann
 fasd
 fastjar
+filelight
 finetune
 firefox
 five-or-more
@@ -117,9 +119,16 @@ i-nex
 iagno
 ideogram-git
 imageburner
-kde-servicemenus-rootactions
-kfaenza-icon-theme
+kbackup
+kcalc
+kcharselect
+kde-cosmic-reborn
+kdebugsettings
+kdf
+kfloppy
 kgpg
+kteatime
+ktimer
 licenses
 lightdm-gtk-greeter-settings
 lightdm-mini-greeter
@@ -201,6 +210,7 @@ plank-theme-namor
 plank-theme-numix
 playmymusic-git
 popular-packages
+print-manager
 python-arrow
 python-flask-marshmallow
 python-gpgme
@@ -214,7 +224,6 @@ python-slugify
 python-swiftclient
 python-virtualenvwrapper
 python2-apt
-qgpgme
 qsshfs
 qtox
 quadrapassel
@@ -253,7 +262,6 @@ switchboard-plug-user-accounts
 sxiv-rifle
 systemd-zpool-scrub
 tali
-telegram-desktop
 timeshift
 tlp-rdw
 toilet-fonts
