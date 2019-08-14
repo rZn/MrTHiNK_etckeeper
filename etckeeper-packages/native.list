@@ -47,7 +47,6 @@ ecryptfs-utils
 electrum
 elementary-cosmic-reborn
 elementary-icon-theme
-elementary-wallpapers-git
 epiphany
 etcher
 etckeeper
@@ -130,7 +129,6 @@ gsignond
 gsignond-plugin-lastfm-git
 gsignond-plugin-oauth-git
 gsignond-plugin-sasl-git
-gtk-theme-elementary-git
 gzip
 hitori
 htop
