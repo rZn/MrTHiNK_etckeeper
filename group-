@@ -66,6 +66,5 @@ nvidia-persistenced:x:143:
 unbound:x:965:
 xmrig:x:964:
 docker:x:963:rzn
-kalu:x:214:
 lxdm:x:962:
 xmms2:x:961:

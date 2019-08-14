@@ -1,0 +1,3 @@
+org.kde.pim.kldap kioslave (kldap) IDENTIFIER [KLDAP_LOG]
+org.kde.pim.ldap kldaplib (kldap) IDENTIFIER [LDAP_LOG]
+

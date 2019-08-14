@@ -1,0 +1,24 @@
+[KNewStuff3]
+Name=KOrganizer Calendar
+Name[ca]=Calendari del KOrganizer
+Name[ca@valencia]=Calendari del KOrganizer
+Name[de]=KOrganizer-Kalender
+Name[en_GB]=KOrganizer Calendar
+Name[es]=Calendario de KOrganizer
+Name[fi]=KOrganizer-kalenteri
+Name[fr]=Calendrier KOrganizer
+Name[gl]=Calendario de KOrganizer
+Name[it]=Calendario di KOrganizer
+Name[ko]=KOrganizer 달력
+Name[nl]=KOrganizer-agenda
+Name[pl]=Kalendarz KOrganizera
+Name[pt]=Calendário do KOrganizer
+Name[pt_BR]=Calendário do KOrganizer
+Name[ru]=Служба календаря KOrganizer
+Name[sv]=Korganizer-kalender
+Name[uk]=Календар KOrganizer
+Name[x-test]=xxKOrganizer Calendarxx
+Name[zh_TW]=KOrganizer 行事曆
+ProvidersUrl=https://autoconfig.kde.org/ocs/providers.xml
+Categories=KOrganizer Calendar
+TargetDir=korganizer
