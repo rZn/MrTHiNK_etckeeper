@@ -19,7 +19,6 @@ bzip2
 cabextract
 capnet-assist
 cdrtools
-cerbere
 cheese
 common-cosmic-reborn
 conky-cairo
@@ -225,12 +224,10 @@ package-query
 pacman
 pacui
 pamac-tray-appindicator
-pantheon-applications-menu
 pantheon-calculator
 pantheon-calendar
 pantheon-camera
 pantheon-code
-pantheon-dpms-helper
 pantheon-files
 pantheon-geoclue2-agent-git
 pantheon-music

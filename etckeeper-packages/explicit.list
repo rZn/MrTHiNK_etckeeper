@@ -192,6 +192,7 @@ pantheon-calculator
 pantheon-calendar
 pantheon-camera
 pantheon-code
+pantheon-default-settings
 pantheon-files
 pantheon-geoclue2-agent-git
 pantheon-music
@@ -199,7 +200,6 @@ pantheon-photos
 pantheon-polkit-agent
 pantheon-print
 pantheon-screenshot
-pantheon-session
 pantheon-shortcut-overlay
 pantheon-terminal
 pantheon-videos
