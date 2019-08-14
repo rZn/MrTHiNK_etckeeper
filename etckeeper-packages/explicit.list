@@ -79,22 +79,16 @@ imageburner
 inetutils
 intel-ucode
 iputils
-kate
 kbackup
 kcalc
 kcharselect
-kde-servicemenus-rootactions
+kde-cosmic-reborn
 kdebugsettings
 kdf
-kfaenza-icon-theme
-kfind
 kfloppy
 kgpg
-khelpcenter
-konqueror
 kteatime
 ktimer
-kwrite
 licenses
 lightdm-gtk-greeter-settings
 lightdm-mini-greeter
@@ -179,7 +173,6 @@ python-slugify
 python-swiftclient
 python-virtualenvwrapper
 python2-apt
-qgpgme
 qsshfs
 qtox
 reborn-recovery
@@ -200,7 +193,6 @@ sshmnt
 stacer
 strip-nondeterminism
 sux
-sweeper
 swig
 switchboard-plug-a11y
 switchboard-plug-bluetooth
@@ -212,7 +204,6 @@ switchboard-plug-sound
 switchboard-plug-user-accounts
 sxiv-rifle
 systemd-zpool-scrub
-telegram-desktop
 timeshift
 toilet-fonts
 torbrowser-launcher-git
