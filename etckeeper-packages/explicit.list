@@ -27,6 +27,7 @@ bitw-git
 bitwarden
 cauralho-git
 cdebootstrap-static
+choqok
 clean-chroot-manager
 configurator-git
 conky-colors-git
@@ -91,6 +92,7 @@ kdebugsettings
 kdf
 kfloppy
 kgpg
+krdc
 kteatime
 ktimer
 licenses
@@ -122,6 +124,7 @@ mc
 mediainfo
 mergerfs-tools-git
 meteo-git
+mikutter
 mmv
 monero-wallet-qt
 motd
@@ -133,6 +136,7 @@ obmenu3
 obsuite-git
 octopussh
 openbox-menu
+openmittsu-git
 openssl-1.0
 openwmail-bin
 pacget
@@ -213,6 +217,7 @@ switchboard-plug-sound
 switchboard-plug-user-accounts
 sxiv-rifle
 systemd-zpool-scrub
+threemawebqt
 timeshift
 toilet-fonts
 torbrowser-launcher-git

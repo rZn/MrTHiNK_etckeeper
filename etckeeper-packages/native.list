@@ -16,6 +16,7 @@ bison
 bzip2
 cabextract
 cdrtools
+choqok
 conky-cairo
 contractor
 copyq
@@ -98,6 +99,7 @@ khelpcenter
 kid3-qt
 konqueror
 konsole
+krdc
 kteatime
 ktimer
 kwalletmanager
