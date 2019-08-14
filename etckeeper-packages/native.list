@@ -40,6 +40,7 @@ easytag
 ecryptfs-utils
 electrum
 elementary-icon-theme
+elementary-wallpapers-git
 etcher
 etckeeper
 exfat-utils
@@ -111,6 +112,7 @@ lightdm-gtk-greeter-settings
 linux
 linux-firmware
 linux-headers
+livewallpaper
 logrotate
 lollypop
 lostfiles
@@ -201,6 +203,7 @@ qgpgme
 qt5-webkit
 qt5-xmlpatterns
 qtox
+reborn-community-wallpapers
 reborn-updates
 reborn-updates-addons
 rebornos-keyring

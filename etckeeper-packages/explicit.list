@@ -46,6 +46,7 @@ electron-cash
 electrum
 electrum-ltc
 elementary-add-icon-theme-git
+elementary-wallpapers-git
 etcher
 etckeeper-packages
 extra
@@ -95,6 +96,7 @@ lightdm-mini-greeter
 lightdm-settings
 linux-headers
 list-package-sizes.bash
+livewallpaper
 logrotate
 lollypop
 lostfiles
@@ -175,6 +177,7 @@ python-virtualenvwrapper
 python2-apt
 qsshfs
 qtox
+reborn-community-wallpapers
 reborn-recovery
 reborn-updates-addons
 rebornos-keyring
