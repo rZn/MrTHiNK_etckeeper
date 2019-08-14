@@ -3,7 +3,6 @@ alien_package_converter
 ancient-packages
 antergos-gnome-defaults-list
 archalien-git
-archive-mounter
 aur-auto-vote-git
 aurbrowser
 aurebuildcheck-git
@@ -39,7 +38,6 @@ gamehub
 germinate
 grml2usb
 gtk-theme-adwaita-tweaks
-gtkhash-nautilus
 hackup-git
 hashit
 ideogram-git
@@ -50,7 +48,6 @@ kfaenza-icon-theme
 lightdm-mini-greeter
 lightdm-settings
 lightdm-slick-greeter
-lightdm-webkit2-theme-material2-git
 list-package-sizes.bash
 makepkg-meta
 mergerfs-tools-git
@@ -59,10 +56,6 @@ mmv
 monero-wallet-qt
 motd
 nano-syntax-highlighting-git
-nautilus-admin
-nautilus-folder-icons
-nautilus-mediainfo
-nautilus-wipe
 obmenu
 obmenu3
 obsuite-git

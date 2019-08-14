@@ -17,7 +17,7 @@ wheel:!!::rzn
 kmem:!!::
 tty:!!::
 utmp:!!::
-audio:!!::
+audio:!!::xmms2
 disk:!!::
 input:!!::
 kvm:!!::
@@ -67,3 +67,5 @@ unbound:!!::
 xmrig:!!::
 docker:!!::rzn
 kalu:!::
+lxdm:!!::
+xmms2:!!::
