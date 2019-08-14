@@ -75,6 +75,7 @@ gettext
 git
 gksu
 glibc
+gnome-disk-utility
 gnu-free-fonts
 gnu-netcat
 gpart
