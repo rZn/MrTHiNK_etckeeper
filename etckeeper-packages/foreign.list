@@ -1,7 +1,9 @@
+adapta-backgrounds
 advcp
 alien_package_converter
 ancient-packages
 antergos-gnome-defaults-list
+arc-kde-wallpapers-git
 archalien-git
 aur-auto-vote-git
 aurbrowser
@@ -23,6 +25,7 @@ dchain
 debian-whois-mkpasswd
 debtap
 devscripts
+dynamic-wallpaper-catalina-kde-git
 easyssh
 electron-cash
 electrum-ltc
@@ -49,6 +52,7 @@ lightdm-mini-greeter
 lightdm-settings
 lightdm-slick-greeter
 list-package-sizes.bash
+maia-wallpaper
 makepkg-meta
 mergerfs-tools-git
 meteo-git
@@ -77,6 +81,7 @@ python-germinate
 python-qdarkstyle
 python2-apt
 qsshfs
+rave-wallpaper-collection-x1
 reborn-recovery
 regextester-git
 sensible-utils
@@ -94,6 +99,7 @@ torbrowser-launcher-git
 toxygen-git
 tpac
 tranqil
+ubuntu-wallpapers
 unity-like-plank-theme
 venom
 viu
@@ -104,6 +110,7 @@ webmin
 wickr-bin
 xmrig
 xmrig-proxy
+xplanetfx
 zedenv
 zedenv-grub
 zfs-auto-snapshot

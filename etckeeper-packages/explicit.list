@@ -1,9 +1,11 @@
+adapta-backgrounds
 advcp
 alien_package_converter
 ancient-packages
 antergos-gnome-defaults-list
 antiword
 appstream-generator
+arc-kde-wallpapers-git
 archalien-git
 ark
 atool
@@ -40,6 +42,7 @@ dmenu
 docker
 doge
 dvtm
+dynamic-wallpaper-catalina-kde-git
 easyssh
 ecryptfs-utils
 electron-cash
@@ -112,6 +115,7 @@ lxrandr-gtk3
 lxsession-gtk3
 lxtask-gtk3
 lxterminal
+maia-wallpaper
 makepkg-meta
 man-pages
 mc
@@ -177,6 +181,7 @@ python-virtualenvwrapper
 python2-apt
 qsshfs
 qtox
+rave-wallpaper-collection-x1
 reborn-community-wallpapers
 reborn-recovery
 reborn-updates-addons
@@ -214,6 +219,7 @@ toxic
 toxygen-git
 tpac
 tranqil
+ubuntu-wallpapers
 unity-like-plank-theme
 unrtf
 usbutils
@@ -227,10 +233,12 @@ waldorf-ui-theme
 wasabi-wallet-bin
 webcamoid
 webmin
+wesnoth
 wickr-bin
 x11vnc
 xmrig
 xmrig-proxy
+xplanetfx
 zedenv
 zfs-auto-snapshot
 zfs-snap-manager
