@@ -122,6 +122,8 @@ maybe chmod 0644 'apt/trusted.gpg.d/debian-archive-stretch-security-automatic.gp
 maybe chmod 0644 'apt/trusted.gpg.d/debian-archive-stretch-stable.gpg'
 maybe chmod 0644 'apt/trusted.gpg.d/debian-archive-wheezy-automatic.gpg'
 maybe chmod 0644 'apt/trusted.gpg.d/debian-archive-wheezy-stable.gpg'
+maybe chmod 0644 'apt/trusted.gpg.d/ubuntu-keyring-2012-archive.gpg'
+maybe chmod 0644 'apt/trusted.gpg.d/ubuntu-keyring-2012-cdimage.gpg'
 maybe chmod 0644 'arch-release'
 maybe chmod 0755 'audisp'
 maybe chmod 0640 'audisp/audisp-remote.conf'
