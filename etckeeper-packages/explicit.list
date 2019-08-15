@@ -22,6 +22,7 @@ aurphan
 aurutils
 aurvote
 auto-auto-complete
+autoconf
 autojump
 automake
 axel
@@ -356,7 +357,6 @@ webmin
 wesnoth
 wickr-bin
 x11vnc
-xmrig
 xmrig-proxy
 xplanetfx
 zedenv-git
