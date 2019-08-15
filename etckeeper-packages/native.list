@@ -92,6 +92,7 @@ gsignond-plugin-oauth-git
 gsignond-plugin-sasl-git
 gzip
 htop
+hwloc
 i-nex
 inetutils
 intel-ucode
@@ -251,6 +252,7 @@ minuet
 nano
 netctl
 nnn
+numactl
 openbox-menu
 openssl-1.0
 os-prober
