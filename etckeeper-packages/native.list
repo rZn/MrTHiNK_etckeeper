@@ -265,7 +265,6 @@ pantheon-calculator
 pantheon-calendar
 pantheon-camera
 pantheon-code
-pantheon-files
 pantheon-geoclue2-agent-git
 pantheon-music
 pantheon-photos
@@ -296,11 +295,9 @@ procps-ng
 psmisc
 pyqt5-common
 python-arrow
-python-flask-marshmallow
 python-gpgme
 python-graphql-core
 python-jellyfish
-python-marshmallow-sqlalchemy
 python-matplotlib
 python-opengl
 python-pycryptodome

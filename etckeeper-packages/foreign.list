@@ -48,6 +48,7 @@ imageburner
 jave
 kde-servicemenus-rootactions
 kfaenza-icon-theme
+ksmoothdock
 kwin-scripts-window-colors
 lightdm-mini-greeter
 lightdm-settings
@@ -117,7 +118,7 @@ wickr-bin
 xmrig
 xmrig-proxy
 xplanetfx
-zedenv
+zedenv-git
 zedenv-grub
 zfs-auto-snapshot
 zfs-snap-manager

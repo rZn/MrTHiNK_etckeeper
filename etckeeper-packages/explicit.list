@@ -173,6 +173,7 @@ krfb
 kruler
 kshisen
 ksirk
+ksmoothdock
 ksnakeduel
 kspaceduel
 ksquares
@@ -246,7 +247,6 @@ pantheon-calculator
 pantheon-calendar
 pantheon-camera
 pantheon-code
-pantheon-files
 pantheon-geoclue2-agent-git
 pantheon-music
 pantheon-photos
@@ -274,11 +274,9 @@ poxml
 print-manager
 psmisc
 python-arrow
-python-flask-marshmallow
 python-gpgme
 python-graphql-core
 python-jellyfish
-python-marshmallow-sqlalchemy
 python-pygpgme
 python-qtpy
 python-quart-cors
@@ -361,7 +359,7 @@ x11vnc
 xmrig
 xmrig-proxy
 xplanetfx
-zedenv
+zedenv-git
 zeroconf-ioslave
 zfs-auto-snapshot
 zfs-snap-manager
