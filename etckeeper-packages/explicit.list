@@ -39,6 +39,7 @@ cauralho-git
 cdebootstrap-static
 cervisia
 choqok
+chromium
 clean-chroot-manager
 configurator-git
 conky-colors-git
@@ -187,6 +188,7 @@ ktuberling
 kturtle
 kubrick
 kwave
+kwin-scripts-krohnkite-git
 kwin-scripts-window-colors
 kwordquiz
 licenses

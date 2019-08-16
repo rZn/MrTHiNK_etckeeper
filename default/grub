@@ -51,4 +51,4 @@ GRUB_DISABLE_RECOVERY=true
 
 # Uncomment to make GRUB remember the last selection. This requires to
 # set 'GRUB_DEFAULT=saved' above.
-#GRUB_SAVEDEFAULT="true"
+GRUB_SAVEDEFAULT="true"

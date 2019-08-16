@@ -8,9 +8,9 @@ zroot/data/home     	/home     	zfs       	rw,xattr,posixacl	0 0
 zroot/boot/grub     	/boot/grub	zfs       	rw,xattr,posixacl	0 0
 
 
-#/proc /mnt/eOS/proc none rbind 0 0 # Can just be mounted, comments?
-#/dev /mnt/eOS/dev none rbind 0 0 # Good thing to do, but not secure.
-#/sys /mnt/eOS/sys none rbind 0 0 # Same as proc?
+/proc /mnt/eOS/proc none rbind 0 0 # Can just be mounted, comments?
+/dev /mnt/eOS/dev none rbind 0 0 # Good thing to do, but not secure.
+/sys /mnt/eOS/sys none rbind 0 0 # Same as proc?
 #/tmp /mnt/eOS/tmp none rbind 0 0 # This opens a lot of doors, namly X sockets are here... DRI should work assuming bits match.
 #/home /var/chroot/hardy/home none rbind 0 0 # This is optional.  As are the others, but this is more so.
 #/media /var/chroot/hardy/media none rbind 0 0 # Your USB stick.
