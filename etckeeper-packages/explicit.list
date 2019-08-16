@@ -195,7 +195,6 @@ lightdm-mini-greeter
 lightdm-settings
 linux-headers
 list-package-sizes.bash
-livewallpaper
 logrotate
 lokalize
 lollypop
