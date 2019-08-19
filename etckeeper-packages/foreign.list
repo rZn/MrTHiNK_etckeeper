@@ -67,6 +67,7 @@ nano-syntax-highlighting-git
 obmenu
 obmenu3
 obsuite-git
+ocs-url
 octopussh
 openmittsu-git
 openwmail-bin
@@ -86,6 +87,8 @@ plasma5-applets-network-monitor
 plasma5-applets-plasma-pstate
 plasma5-applets-playbar2
 plasma5-applets-resources-monitor-git
+plasma5-applets-rssnow-git
+plasma5-applets-systemd
 plasma5-applets-uptime-widget-git
 plasma5-applets-window-appmenu
 plasma5-applets-window-buttons

@@ -233,6 +233,7 @@ nnn
 obmenu
 obmenu3
 obsuite-git
+ocs-url
 ocsstore
 octopussh
 openbox-menu
@@ -279,6 +280,8 @@ plasma5-applets-plasma-pstate
 plasma5-applets-playbar2
 plasma5-applets-redshift-control
 plasma5-applets-resources-monitor-git
+plasma5-applets-rssnow-git
+plasma5-applets-systemd
 plasma5-applets-thermal-monitor
 plasma5-applets-uptime-widget-git
 plasma5-applets-weather-widget
