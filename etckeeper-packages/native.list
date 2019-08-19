@@ -58,7 +58,7 @@ ecryptfs-utils
 electrum
 elementary-icon-theme
 elementary-wallpapers-git
-etcher
+etcher-bin
 etckeeper
 ethtool
 exfat-utils
@@ -98,6 +98,7 @@ gsignond-plugin-sasl-git
 gzip
 htop
 i-nex
+imagewriter
 inetutils
 intel-ucode
 iproute2

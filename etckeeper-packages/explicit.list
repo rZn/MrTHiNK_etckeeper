@@ -65,7 +65,7 @@ electrum
 electrum-ltc
 elementary-add-icon-theme-git
 elementary-wallpapers-git
-etcher
+etcher-bin
 etckeeper-packages
 extra
 fann
@@ -98,6 +98,7 @@ htop
 i-nex
 ideogram-git
 imageburner
+imagewriter
 intel-ucode
 iputils
 juk
