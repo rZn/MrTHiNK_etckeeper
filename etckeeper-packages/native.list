@@ -252,6 +252,7 @@ minuet
 nano
 netctl
 nnn
+ocsstore
 openbox-menu
 openssl-1.0
 os-prober
@@ -290,6 +291,10 @@ pim-sieve-editor
 pkgconf
 pkgstats
 plasma-browser-integration
+plasma5-applets-active-window-control
+plasma5-applets-redshift-control
+plasma5-applets-thermal-monitor
+plasma5-applets-weather-widget
 poxml
 print-manager
 procps-ng
@@ -313,6 +318,7 @@ python-trio
 python-typing_extensions
 python-unidecode
 python-virtualenvwrapper
+python-xdg
 qgpgme
 qt5-webkit
 qt5-xmlpatterns

@@ -233,6 +233,7 @@ nnn
 obmenu
 obmenu3
 obsuite-git
+ocsstore
 octopussh
 openbox-menu
 openmittsu-git
@@ -269,6 +270,15 @@ plank-theme-arc
 plank-theme-namor
 plank-theme-numix
 plasma-browser-integration
+plasma5-applets-active-window-control
+plasma5-applets-kde-arch-update-notifier-git
+plasma5-applets-network-monitor
+plasma5-applets-playbar2
+plasma5-applets-redshift-control
+plasma5-applets-resources-monitor-git
+plasma5-applets-thermal-monitor
+plasma5-applets-uptime-widget-git
+plasma5-applets-weather-widget
 plasma5-applets-window-appmenu
 playmymusic-git
 popular-packages
