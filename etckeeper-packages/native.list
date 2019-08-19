@@ -1,3 +1,4 @@
+acpi_call
 akonadi-calendar-tools
 akonadi-import-wizard
 akonadiconsole
@@ -59,6 +60,7 @@ elementary-icon-theme
 elementary-wallpapers-git
 etcher
 etckeeper
+ethtool
 exfat-utils
 fakeroot
 fann
@@ -416,6 +418,7 @@ woeusb
 wpa_supplicant
 x11-ssh-askpass
 x11vnc
+x86_energy_perf_policy
 xclip
 xf86-video-dummy
 xfsprogs
