@@ -20,6 +20,7 @@ base-cosmic-reborn
 bash
 binutils
 bison
+bleachbit-root
 blinken
 bomber
 bovo
@@ -258,6 +259,7 @@ openssl-1.0
 os-prober
 p7zip
 pacaur
+pace
 package-query
 pacman
 pacui
@@ -327,6 +329,7 @@ reborn-community-wallpapers
 reborn-updates
 reborn-updates-addons
 rebornos-keyring
+redshiftgui
 reflector-antergos
 reiserfsprogs
 rocs
@@ -383,14 +386,18 @@ telepathy-kde-integration-module
 telepathy-kde-send-file
 telepathy-kde-text-ui
 texinfo
+thermald
+thinkfan
 timeshift
 tk
+tlpui-git
 toxic
 trash-cli
 ttf-croscore
 ttf-droid
 ttf-liberation
 ttf-ms-fonts
+ttf-symbola
 ubuntu-keyring
 udftools
 umbrello
@@ -405,6 +412,7 @@ vi
 vibe-d
 wesnoth
 which
+woeusb
 wpa_supplicant
 x11-ssh-askpass
 x11vnc

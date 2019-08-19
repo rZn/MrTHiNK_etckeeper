@@ -31,6 +31,7 @@ bison
 bisq
 bitw-git
 bitwarden
+bleachbit-root
 blinken
 bomber
 bovo
@@ -240,6 +241,7 @@ openbox-menu
 openmittsu-git
 openssl-1.0
 openwmail-bin
+pace
 pacget
 pachist-git
 pacman-sync
@@ -310,6 +312,7 @@ reborn-community-wallpapers
 reborn-recovery
 reborn-updates-addons
 rebornos-keyring
+redshiftgui
 reflector-antergos
 regextester-git
 rocs
@@ -348,8 +351,11 @@ telepathy-kde-filetransfer-handler
 telepathy-kde-integration-module
 telepathy-kde-send-file
 telepathy-kde-text-ui
+thermald
+thinkfan
 threemawebqt
 timeshift
+tlpui-git
 toilet-fonts
 torbrowser-launcher-git
 toxic
@@ -357,11 +363,11 @@ toxygen-git
 tpac
 tranqil
 ttf-abibas
+ttf-symbola
 ubuntu-wallpapers
 umbrello
 unity-like-plank-theme
 unrtf
-usbutils
 utox
 venom
 veracrypt
@@ -374,6 +380,7 @@ webcamoid
 webmin
 wesnoth
 wickr-bin
+woeusb
 x11vnc
 xmrig-proxy
 xplanetfx
