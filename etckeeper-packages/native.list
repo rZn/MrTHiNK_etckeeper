@@ -23,6 +23,7 @@ binutils
 bison
 bleachbit-root
 blinken
+bluedevil
 bomber
 bovo
 bzip2
@@ -51,6 +52,7 @@ docker
 doge
 downgrade
 dragon
+drkonqi
 dvtm
 e2fsprogs
 easytag
@@ -138,6 +140,7 @@ kdegraphics-mobipocket
 kdenetwork-filesharing
 kdenlive
 kdepim-addons
+kdeplasma-addons
 kdesdk-kioslaves
 kdesdk-thumbnailers
 kdf
@@ -146,6 +149,7 @@ keditbookmarks
 kfind
 kfloppy
 kfourinline
+kgamma5
 kgeography
 kget
 kgoldrunner
@@ -296,6 +300,8 @@ pim-sieve-editor
 pkgconf
 pkgstats
 plasma-browser-integration
+plasma-sdk
+plasma-vault
 plasma5-applets-active-window-control
 plasma5-applets-redshift-control
 plasma5-applets-thermal-monitor
@@ -421,6 +427,7 @@ x11-ssh-askpass
 x11vnc
 x86_energy_perf_policy
 xclip
+xdg-desktop-portal-kde
 xf86-video-dummy
 xfsprogs
 xorg-xbacklight
