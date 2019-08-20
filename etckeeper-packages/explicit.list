@@ -129,14 +129,12 @@ kde-dev-utils
 kdebugsettings
 kdenetwork-filesharing
 kdenlive
-kdeplasma-addons
 kdesdk-kioslaves
 kdesdk-thumbnailers
 kdf
 kdiamond
 kfloppy
 kfourinline
-kgamma5
 kgeography
 kget
 kgoldrunner
@@ -146,6 +144,7 @@ kig
 kigo
 killbots
 kimagemapeditor
+kindd-git
 kirigami-gallery
 kiriki
 kiten
@@ -275,9 +274,7 @@ pkgstats
 plank-theme-arc
 plank-theme-namor
 plank-theme-numix
-plasma-browser-integration
-plasma-sdk
-plasma-vault
+plasma-meta
 plasma5-applets-active-window-control
 plasma5-applets-kde-arch-update-notifier-git
 plasma5-applets-mycroft-git

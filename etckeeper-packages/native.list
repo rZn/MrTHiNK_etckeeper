@@ -26,6 +26,7 @@ blinken
 bluedevil
 bomber
 bovo
+breeze-grub
 bzip2
 cabextract
 cantor
@@ -38,6 +39,7 @@ contractor
 copyq
 coreutils
 crda
+cryfs
 cryptsetup
 debian-archive-keyring
 debootstrap
@@ -300,6 +302,7 @@ pim-sieve-editor
 pkgconf
 pkgstats
 plasma-browser-integration
+plasma-meta
 plasma-sdk
 plasma-vault
 plasma5-applets-active-window-control
