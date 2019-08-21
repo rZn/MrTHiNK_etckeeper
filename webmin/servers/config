@@ -1,10 +1,10 @@
-show_status=1
+sort_mode=0
 resolve=1
+display_mode=0
+max_servers=100
+groups_dir=/etc/cluster/groups
+show_status=1
+deffast=2
 deflink=0
 scan_time=5
-groups_dir=/etc/cluster/groups
-sort_mode=0
-max_servers=100
 show_ip=0
-deffast=2
-display_mode=0

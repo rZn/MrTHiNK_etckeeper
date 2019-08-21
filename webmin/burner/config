@@ -1,5 +1,5 @@
-sox=sox
 mkisofs=mkisofs
+sox=sox
 cdrecord=cdrecord
 cdrdao=cdrdao
 mpg123=mpg123

@@ -1,8 +1,8 @@
+encrypt_pass=0
 pap_file=/etc/ppp/pap-secrets
 pppd=pppd
-login_config=/etc/mgetty+sendfax/login.config
-dialin_config=/etc/mgetty+sendfax/dialin.config
 serials=/dev/ttyS[0-9]*
-mgetty=mgetty
-encrypt_pass=0
 ppp_options=/etc/ppp/options
+mgetty=mgetty
+dialin_config=/etc/mgetty+sendfax/dialin.config
+login_config=/etc/mgetty+sendfax/login.config

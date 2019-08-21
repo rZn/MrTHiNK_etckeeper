@@ -1,7 +1,7 @@
-proftpd_conf=/usr/local/etc/proftpd.conf
 proftpd_path=/usr/local/sbin/proftpd
 ftpusers=/etc/ftpusers
-test_always=0
 test_config=1
-test_manual=0
+test_always=0
 pid_file=/usr/local/var/proftpd.pid
+test_manual=0
+proftpd_conf=/usr/local/etc/proftpd.conf

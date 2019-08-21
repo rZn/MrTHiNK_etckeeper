@@ -1,6 +1,6 @@
-ps_style=linux
-cut_length=80
+trace_java=0
 base_ppid=1
 default_mode=last
-trace_java=0
+ps_style=linux
 hide_self=1
+cut_length=80

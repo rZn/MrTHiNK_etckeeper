@@ -1,6 +1,6 @@
-protocols_file=/etc/protocols
+start_cmd=systemctl start xinetd.service
 lookup_servs=1
 xinetd_conf=/etc/xinetd.conf
 pid_file=/var/run/xinetd.pid
-start_cmd=systemctl start xinetd.service
+protocols_file=/etc/protocols
 add_dir=/etc/xinetd.d

@@ -1,4 +1,0 @@
-path=/usr/bin/httpd
-webmin=1.920
-size=641784
-modules=core/2.439 mod_authn_file/2.439 mod_authz_host/2.439 mod_authz_groupfile/2.439 mod_auth_basic/2.439 mod_include/2.439 mod_mime/2.439 mod_log_config/2.439 mod_env/2.439 mod_setenvif/2.439 mod_status/2.439 mod_autoindex/2.439 mod_negotiation/2.439 mod_dir/2.439 mod_userdir/2.439 mod_alias/2.439
