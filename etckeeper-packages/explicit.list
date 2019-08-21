@@ -121,7 +121,7 @@ kbruch
 kcachegrind
 kcalc
 kcharselect
-kcolorchooser
+kcm-colorful-git
 kcron
 kde-cosmic-reborn
 kde-dev-scripts
@@ -342,6 +342,7 @@ switchboard-plug-printers
 switchboard-plug-sound
 switchboard-plug-user-accounts
 sxiv-rifle
+systemd-kcm
 systemd-zpool-scrub
 telepathy-kde-approver
 telepathy-kde-auth-handler
