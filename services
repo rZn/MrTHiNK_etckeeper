@@ -4237,8 +4237,8 @@ rapido-ip        2457/tcp
 rapido-ip        2457/udp
 griffin          2458/tcp
 griffin          2458/udp
-community        2459/tcp
-community        2459/udp
+xrpl             2459/tcp
+xrpl             2459/udp
 ms-theater       2460/tcp
 ms-theater       2460/udp
 qadmifoper       2461/tcp
@@ -9815,6 +9815,7 @@ us-cli           8082/tcp
 us-cli           8082/udp
 us-srv           8083/tcp
 us-srv           8083/udp
+websnp           8084/tcp
 d-s-n            8086/tcp
 d-s-n            8086/udp
 simplifymedia    8087/tcp
@@ -10021,6 +10022,7 @@ ultraseek-http   8765/tcp
 ultraseek-http   8765/udp
 amcs             8766/tcp
 amcs             8766/udp
+core-of-source   8767/tcp
 dpap             8770/tcp
 dpap             8770/udp
 uec              8778/tcp
@@ -10924,6 +10926,7 @@ irtrans         21000/tcp
 irtrans         21000/udp
 notezilla-lan   21010/tcp
 trinket-agent   21212/tcp
+cohesity-agent  21213/tcp
 aigairserver    21221/tcp
 rdm-tfs         21553/tcp
 dfserver        21554/tcp
