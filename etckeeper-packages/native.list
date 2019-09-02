@@ -272,6 +272,7 @@ package-query
 pacman
 pacui
 palapeli
+pamac-aur
 pantheon-calculator
 pantheon-calendar
 pantheon-camera
