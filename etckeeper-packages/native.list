@@ -87,6 +87,7 @@ glibc
 gnome-disk-utility
 gnu-free-fonts
 gnu-netcat
+gobject-introspection
 gpart
 gparted
 gpicview-gtk3
@@ -107,6 +108,7 @@ inetutils
 intel-ucode
 iproute2
 iputils
+itstool
 iw
 jfsutils
 juk
@@ -312,9 +314,12 @@ procps-ng
 psmisc
 pyqt5-common
 python-arrow
+python-beaker
 python-gpgme
 python-graphql-core
 python-jellyfish
+python-mako
+python-markdown
 python-matplotlib
 python-opengl
 python-pycryptodome
