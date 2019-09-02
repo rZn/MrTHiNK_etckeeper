@@ -123,9 +123,9 @@ kcalc
 kcharselect
 kcm-colorful-git
 kcron
-kde-cosmic-reborn
 kde-dev-scripts
 kde-dev-utils
+kde-servicemenus-rootactions
 kdebugsettings
 kdenetwork-filesharing
 kdenlive
@@ -133,6 +133,7 @@ kdesdk-kioslaves
 kdesdk-thumbnailers
 kdf
 kdiamond
+kfaenza-icon-theme
 kfloppy
 kfourinline
 kgeography
@@ -331,6 +332,7 @@ stacer
 step
 strip-nondeterminism
 sux
+sweeper
 swig
 switchboard-plug-a11y
 switchboard-plug-bluetooth

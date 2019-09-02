@@ -134,7 +134,6 @@ kcalc
 kcharselect
 kcolorchooser
 kcron
-kde-cosmic-reborn
 kde-dev-scripts
 kde-dev-utils
 kdebugsettings
@@ -273,7 +272,6 @@ package-query
 pacman
 pacui
 palapeli
-pamac-tray-appindicator
 pantheon-calculator
 pantheon-calendar
 pantheon-camera
