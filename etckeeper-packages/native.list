@@ -86,6 +86,7 @@ git
 gksu
 glibc
 gnome-disk-utility
+gnome-software
 gnu-free-fonts
 gnu-netcat
 gpart
