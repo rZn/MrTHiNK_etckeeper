@@ -7,7 +7,6 @@ alien_package_converter
 ancient-packages
 antergos-gnome-defaults-list
 antiword
-apparmor
 appstream-generator
 arc-kde-wallpapers-git
 archalien-git
@@ -85,7 +84,6 @@ gamehub
 germinate
 gnome-disk-utility
 gnu-netcat
-go-tools
 gparted
 gpicview-gtk3
 granatier
@@ -300,7 +298,6 @@ poxml
 print-manager
 psmisc
 python-arrow
-python-docutils
 python-gpgme
 python-graphql-core
 python-jellyfish
