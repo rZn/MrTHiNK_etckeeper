@@ -4,6 +4,7 @@ akonadi-import-wizard
 akonadiconsole
 akregator
 antiword
+apparmor
 appstream-generator
 ark
 artikulate
@@ -88,6 +89,7 @@ glibc
 gnome-disk-utility
 gnu-free-fonts
 gnu-netcat
+go-tools
 gpart
 gparted
 gpicview-gtk3
@@ -315,6 +317,7 @@ procps-ng
 psmisc
 pyqt5-common
 python-arrow
+python-docutils
 python-gpgme
 python-graphql-core
 python-jellyfish
@@ -355,6 +358,7 @@ sed
 shadow
 signal-desktop-bin
 source-highlight
+squashfs-tools
 stacer
 step
 strace
