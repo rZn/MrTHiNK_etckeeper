@@ -219,7 +219,6 @@ kwordquiz
 kwrite
 latte-dock
 less
-libcdio-paranoia
 libgsf
 libopenraw
 libpng12
@@ -261,7 +260,6 @@ mc
 mdadm
 mediainfo
 minuet
-mpv
 nano
 netctl
 nnn
@@ -296,7 +294,6 @@ patch
 pbzip2
 pciutils
 pcmanfm-gtk3
-pepper-flash
 perl
 picmi
 pigz
@@ -349,7 +346,6 @@ redshiftgui
 reflector-antergos
 reiserfsprogs
 rocs
-rubberband
 s-nail
 samba
 schroot
@@ -417,7 +413,6 @@ ttf-liberation
 ttf-ms-fonts
 ttf-symbola
 ubuntu-keyring
-uchardet
 udftools
 umbrello
 unrar
@@ -426,7 +421,6 @@ unzip
 usbutils
 util-linux
 utox
-vamp-plugin-sdk
 veracrypt
 vi
 vibe-d

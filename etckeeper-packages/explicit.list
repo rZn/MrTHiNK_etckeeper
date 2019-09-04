@@ -233,7 +233,6 @@ minuet
 mmv
 monero-wallet-qt
 motd
-mpv
 nano-syntax-highlighting-git
 netctl
 nnn
@@ -361,6 +360,8 @@ telepathy-kde-text-ui
 thermald
 thinkfan
 threemawebqt
+tidal-cli-client-git
+tidal-music-linux-git
 timeshift
 tlpui-git
 toilet-fonts
