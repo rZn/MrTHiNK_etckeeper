@@ -49,6 +49,7 @@ dh-make
 dhcpcd
 dialog
 diffutils
+discord
 dmenu
 docker
 doge
