@@ -44,7 +44,6 @@ chromium
 clean-chroot-manager
 configurator-git
 conky-colors-git
-copyq-plugin-itemweb
 crowd-greeter
 dchain
 debian-whois-mkpasswd

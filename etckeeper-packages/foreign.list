@@ -19,7 +19,8 @@ cdebootstrap-static
 clean-chroot-manager
 configurator-git
 conky-colors-git
-copyq-plugin-itemweb
+copyq-git
+copyq-plugin-itemweb-git
 crowd-greeter
 dchain
 debian-whois-mkpasswd
