@@ -12,6 +12,7 @@ arc-kde-wallpapers-git
 archalien-git
 ark
 artikulate
+asciidoc
 atool
 audiocd-kio
 aur-auto-vote-git
@@ -224,6 +225,7 @@ maia-wallpaper
 makepkg-meta
 man-pages
 marble
+maven
 mc
 mediainfo
 mergerfs-tools-git
@@ -327,7 +329,6 @@ sddm-theme-gracilis-git
 setup
 signal-desktop-bin
 simonascripts
-source-highlight
 speculum
 sshmnt
 stacer

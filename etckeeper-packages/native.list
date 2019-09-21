@@ -7,6 +7,7 @@ antiword
 appstream-generator
 ark
 artikulate
+asciidoc
 asp
 atool
 audiocd-kio
@@ -255,6 +256,7 @@ make
 man-db
 man-pages
 marble
+maven
 mbox-importer
 mc
 mdadm
