@@ -442,6 +442,7 @@ youtube-dl
 zbar
 zeroconf-ioslave
 zfs-linux
+zfs-linux-headers
 zimg
 zip
 zsh
