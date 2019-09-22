@@ -200,7 +200,6 @@ licenses
 lightdm-gtk-greeter-settings
 lightdm-mini-greeter
 lightdm-settings
-linux-headers
 list-package-sizes.bash
 logrotate
 lokalize
@@ -267,7 +266,6 @@ pantheon-terminal
 pantheon-videos
 parley
 partitionmanager
-patch
 pbzip2
 pcmanfm-gtk3
 picmi
@@ -378,6 +376,7 @@ venom
 veracrypt
 vi
 vibe-d
+virtualbox-ext-oracle
 viu
 waldorf-ui-theme
 wasabi-wallet-bin

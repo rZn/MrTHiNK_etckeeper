@@ -69,3 +69,4 @@ docker:x:963:rzn
 lxdm:x:962:
 xmms2:x:961:
 mysql:x:960:
+vboxusers:x:108:

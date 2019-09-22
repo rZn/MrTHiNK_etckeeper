@@ -68,3 +68,4 @@ xmrig:!!::
 docker:!!::rzn
 lxdm:!!::
 xmms2:!!::
+mysql:!!::
