@@ -7,7 +7,6 @@ antiword
 appstream-generator
 ark
 artikulate
-asciidoc
 asp
 atool
 audiocd-kio
@@ -256,7 +255,6 @@ make
 man-db
 man-pages
 marble
-maven
 mbox-importer
 mc
 mdadm
@@ -371,10 +369,8 @@ switchboard-plug-about
 switchboard-plug-applications
 switchboard-plug-bluetooth
 switchboard-plug-datetime
-switchboard-plug-desktop
 switchboard-plug-display
 switchboard-plug-keyboard
-switchboard-plug-locale
 switchboard-plug-mouse-touchpad
 switchboard-plug-notifications
 switchboard-plug-online-accounts
@@ -383,7 +379,6 @@ switchboard-plug-power
 switchboard-plug-printers
 switchboard-plug-security-privacy
 switchboard-plug-sound
-switchboard-plug-user-accounts
 sxiv
 sysfsutils
 systemd-sysvcompat

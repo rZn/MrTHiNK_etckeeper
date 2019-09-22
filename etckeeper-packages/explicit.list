@@ -12,7 +12,6 @@ arc-kde-wallpapers-git
 archalien-git
 ark
 artikulate
-asciidoc
 atool
 audiocd-kio
 aur-auto-vote-git
@@ -225,7 +224,6 @@ maia-wallpaper
 makepkg-meta
 man-pages
 marble
-maven
 mc
 mediainfo
 mergerfs-tools-git
@@ -344,7 +342,6 @@ switchboard-plug-online-accounts
 switchboard-plug-parental-controls
 switchboard-plug-printers
 switchboard-plug-sound
-switchboard-plug-user-accounts
 sxiv-rifle
 systemd-kcm
 systemd-zpool-scrub
