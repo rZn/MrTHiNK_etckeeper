@@ -42,6 +42,7 @@ cryfs
 cryptsetup
 debian-archive-keyring
 debootstrap
+deepin-clone
 detox
 device-mapper
 dh-make
